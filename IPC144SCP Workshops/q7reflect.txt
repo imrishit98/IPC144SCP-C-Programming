@@ -1,0 +1,11 @@
+Quiz 7 reflection - V2
+Name: Rishit Patel
+Student number: A00089000
+Email: rspatel21@myseneca.ca
+Section: IPC144SCP
+
+2- Write the necessary code to close the file you opened in question number 1;
+
+what i wrote: fclose(fptr, data.txt);
+
+correct answer: fclose(fptr);

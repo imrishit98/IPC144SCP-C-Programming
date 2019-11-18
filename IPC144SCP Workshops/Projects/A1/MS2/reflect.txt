@@ -1,0 +1,12 @@
+Name: Rishit Patel
+Student number: A00089000
+Email: rspatel21@myseneca.ca
+Section: IPCSCP144
+Date: 05/11/2018
+----------------------------------------------
+Assignment: 1
+Milestone:  2
+
+1- No, I can't think of a more efficient way to ask a user to add the required information to each data field.
+
+2- C string that is required to store up to 25 characters must be capable of storing 26 characters because string stores values from 0 to 25. so, we have to put 26 because first value will be 0.   

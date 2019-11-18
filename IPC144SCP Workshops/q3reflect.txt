@@ -1,0 +1,13 @@
+Quiz 3 reflection - V1 - PATEL RISHIT A00089000
+
+3.Create an array of 4 floats and intialize them to (3.1,6.5,2.5,9.9);(choose the name yourself)
+
+what i wrote: float num[4] = [ 3.1, 6.5, 2.5, 9.9];
+correct answer: float num[4] = { 3.1, 6.5, 2.5, 9.9};
+
+4. Create an array of 200 long integers and initialize them to zero;
+
+what i wrote: long num[200][0];
+correct answer: long num[200] = {0};
+
+

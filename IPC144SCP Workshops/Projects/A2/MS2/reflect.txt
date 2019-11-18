@@ -1,0 +1,14 @@
+/* -------------------------------------------
+Name: Rishit Patel
+Student number: A00089000
+Email: rspatel21@myseneca.ca
+Section: IPC144SCP
+Date: 18/11/2018
+----------------------------------------------
+Assignment: 2
+Milestone:  2
+---------------------------------------------- */
+
+1- Function is group of certain statements that perform task together. Function has multiple statements into it so it makes the code short and easy. You just have to call that function and it will perform multiple tasks in just one line of code.
+
+2- contacts already has structures and functions in it and puting functions in helpers module will make code easy and organized. 

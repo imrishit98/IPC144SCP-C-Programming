@@ -1,0 +1,14 @@
+Name: Rishit Patel
+Student number: A00089000
+Email: rspatel21@myseneca.ca
+Section: IPC144SCP
+Date: 10/11/2018
+----------------------------------------------
+Assignment: 1
+Milestone:  4
+
+1 - We used Contact structure that holds three other structs because we just need one function instead of three functions to get multiple values.
+
+2 - The most difficult part of this assignment to connect three programs together and solving the errors with all three.
+
+3 - It took me 4 days to complete Miletone 4.

@@ -1,0 +1,6 @@
+Rishit Patel
+A00089000
+rspatel21@myseneca.ca
+Reflection For Workshop 1
+
+This was my first workshop so, in this workshop i first learned to how to create visual basic project for c programming. I also learned some basic functions of c. Learned about printf function. Learned about standard input output library.  

@@ -1,0 +1,29 @@
+Quiz 4 reflection - V2
+Name: Rishit Patel
+Student number: A00089000
+Email: rspatel21@myseneca.ca
+Section: IPC144SCP
+
+1- Write a prototype for a function that recieves three double numbers and returns the average of three as an integer value.
+
+what i wrote: main(double i, double j, double k);
+	      int avg
+	      avg = i+j+k / 3;
+	      return avg;
+
+correct answer: int avg(double i, double j, double k);
+
+2- Write a function called min that recives two integer values and returns the larger one.
+
+what i wrote: min(int i, int j) {
+		int large
+		large = 
+
+correct answer: int min (int i, int j) {
+		int result;
+		if (i > j)
+		result = i;
+		else 
+		result = j;
+		return result;
+		}

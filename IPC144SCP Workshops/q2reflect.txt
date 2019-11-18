@@ -1,0 +1,41 @@
+Quiz 2 reflection - V1 - PATEL RISHIT A00089000
+
+2. what is the value of "A" after this loop is completed:
+int A = 10;
+while (A < 15){
+	A++;
+}
+
+what i wrote: A=14
+correct answer:A=15
+
+3. what is the value of "A" after this loop is completed:
+int A = 0;
+while (A < 5){
+        A+=3;
+}
+
+what i wrote: A=4
+correct answer:A=6
+
+4. what is the while loop equivalent of this loop?
+for (x=0;x<200;x++){
+	scanf("%d", &val);
+	sum += val;
+}
+
+what i wrote: int x = 0;
+	      while (x < 200){
+		x++;
+		scanf("%d", &val);
+		sum += val;
+}
+correct answer: int x = 0;
+                while (x < 200){
+                scanf("%d", &val);
+                sum += val;
+		x++;
+}
+
+
+

@@ -1,0 +1,9 @@
+// Name: Rishit Patel           
+// Student Number: A00089000
+// Email: rspatel21@myseneca.ca         
+// Section: IPC144SCP        
+// Workshop: Workshop 4 in_home  
+
+1 - arrays in this program declared to hold 10 elements, because we want to store temperature between 3 to 10 days.
+2 - the advantage of matching arrays is that you can relate more than two arrays with matching arrays. you can store multiple values in them. there are no disadvantages of matching arrays.
+3 - home part for this workshop was not too easy. I found some difficulties in getting the last total right but at the end i found the problem and fixed it. it wasn't too hard.

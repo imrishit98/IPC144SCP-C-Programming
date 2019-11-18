@@ -1,0 +1,8 @@
+Name:      Rishit Patel
+Student#:  A00089000
+Section:   IPC144SCP
+
+1- The most important thing i learned in this workshop is use of modulus operator.
+2- We have to add .005 to the value derived because otherwise it will give 1.1284 as a answer, if we add 0.005 in that then it will give 1.13 and compiler will calculate on that amount.
+3- The use of casting operation is to convert type of an operand to another.
+4- We used modulus operator in this workshop because we required to show loonies, quarters, dimes, etc. and for that we have to divide amount with certain number and then show the remainder. modulus shows the number only if there is no remainder. 

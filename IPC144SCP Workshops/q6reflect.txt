@@ -1,0 +1,47 @@
+Quiz 6 reflection - V2
+Name: Rishit Patel
+Student number: A00089000
+Email: rspatel21@myseneca.ca
+Section: IPC144SCP
+
+1- Write a function called "prnCellNumber" that prints a phone number aligned to the following header and in following format: (30 spaces for name)
+
+Name				|Cell Number
+=============================================
+John Doe			|705-5551234
+
+What i wrote:
+Void prnCellNumber prn;
+scanf("%s",prn);
+getprn(prn);
+printf("%c",prn);
+printf("%d",areacode);
+printf("%d",number);
+
+Correct answer:
+
+void prnCellNumber (const struct Cellnumber* p) {
+printf("%-30s|%3d-%7d\n",p->name,p->areacode,p->number);
+}
+
+2- Is the function you wrote above efficient with respect to the amount of data passed through the structure argument?If not how can you fix it?
+
+What i wrote:
+The function is efficient with respect to the amount of data passed through the structure argument because name member has 31 spaces.
+
+Correct answer:
+The function is not efficient.
+
+3- Write a function (emptyCellNumber) that empties all the values in a CelNumber structure to Name to an empty string
+Area code and number to -1
+
+What i wrote:
+void emptyCellNumber(void){
+clearkeyboard;
+
+Correct answer:
+void emptyCellNumber(void){
+name = 0;
+areacode = -1;
+number = -1;
+} 

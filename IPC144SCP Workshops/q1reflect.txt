@@ -1,0 +1,32 @@
+Quiz 1 Reflect V1
+
+2.in C language write this C statement:
+  create a variable of type long, called account and intialize to 1234567.
+
+What i wrote: long account;
+	      account = 1234567;
+
+Correct answer: long account = 1234567;
+
+5. What is a false value in C?
+
+what i wrote: false value in C is negative integer.
+
+correct answer: false value in C is 0(zero).
+
+6. what is the value of B after the following C statements:
+	int B = 25;
+	B -= 5;
+
+what i wrote: B = 5
+
+correct answer: B = 20
+
+7. what is the value of X after the following C statements:
+	int X;
+	X = 5.92;
+
+what i wrote: X = 5.92
+
+correct answer: X = 5
+

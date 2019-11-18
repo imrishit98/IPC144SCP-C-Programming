@@ -1,0 +1,53 @@
+Quiz 8 reflection - V2
+Name: Rishit Patel
+Student number: A00089000
+Email: rspatel21@myseneca.ca
+Section: IPC144SCP
+
+1- What is the output of the following code:
+	char name[21] = "Jonathan";
+	name[3] = 0;
+	puts(name);
+
+what i wrote: 0
+
+correct answer: Jon
+
+3- What is the output of the following code:
+
+char name[21] = "Homer";
+
+if (strcmp(name, "Simpson") > 0)
+
+printf("ONE");
+
+else
+
+printf("TWO");
+
+what i wrote: TWO
+I checked this program in visual studio and my answer was right but you gave it wrong.
+
+5- If there is a file on the disk called "data.txt" with following three values in it:
+10 20 30
+What is the output of the following code:
+#include <stdio.h>
+
+
+int main(void)
+ {
+FILE* fptr;
+int res, num;
+fptr = fopen("data.txt", "r");
+do {
+res = fscanf(fptr, "%d", &num);
+printf("%d\n", num);
+} while (res == 1);
+fclose(fptr);
+return 0;
+
+} 
+
+what i wrote: 10 20 30
+
+correct answer: 10 20 30 30

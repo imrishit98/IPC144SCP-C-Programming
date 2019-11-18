@@ -1,0 +1,9 @@
+// Name: Rishit Patel
+// Student Number: A00089000
+// Email: rspatel21@myseneca.ca
+// Section: IPC144SCP
+// Workshop: Workshop 3 in_home
+
+1 - while, for, do while.
+2 - The do while loop executes the content of the loop once before checking the condition of the while statement. Whereas a while loop will check the condition first before executing the content. So, even if given condition is false, the do while loop will run atleast one time.
+3 - Conditional operators return one value if condition is true otherwise returns another value if condition is false. it's used as Condition?value1:value2. If condition is true it then it will return value1 and if false, value2 will be returned.
